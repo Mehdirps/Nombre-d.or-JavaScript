@@ -1,0 +1,8 @@
+section{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+p{
+    text-align: center;
+    border: solid 5px salmon;
+}
